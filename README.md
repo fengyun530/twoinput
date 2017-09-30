@@ -1,2 +1,2 @@
 # twoinput
-this is two input plugins
+this is two input plugins for yii2
